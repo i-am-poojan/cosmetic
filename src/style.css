@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.rotate-y-0-hover {
+  transform: rotateY(0deg);
+}
+
+.rotate-y-0-hover:hover {
+  transform: rotateY(360deg);
+  transition: transform 500ms ease;
+}
