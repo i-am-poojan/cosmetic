@@ -11,3 +11,7 @@
   transform: rotateY(360deg);
   transition: transform 500ms ease;
 }
+
+.contactUs {
+  background-image: url('https://htmldemo.net/brancy/brancy/assets/images/photos/bg1.webp');
+}
